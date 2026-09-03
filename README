@@ -1,0 +1,68 @@
+# Logistics Data Analysis and Predictive Optimization
+
+## Project Overview
+
+This project focuses on applying data science and Python techniques to analyze logistics and supply chain operations.
+
+The project aims to identify delivery performance patterns, analyze operational bottlenecks, predict delivery risks, and propose optimization strategies for improving supply chain efficiency.
+
+## Objectives
+
+- Analyze logistics and supply chain performance.
+- Measure important logistics KPIs.
+- Clean and preprocess logistics data.
+- Perform exploratory data analysis (EDA).
+- Create meaningful data visualizations.
+- Identify factors associated with delivery delays.
+- Develop predictive models for logistics performance.
+- Propose optimization strategies for better resource allocation.
+
+## Key Performance Indicators
+
+The project will focus on:
+
+1. On-Time Delivery Rate
+2. Late Delivery Rate
+3. Average Delivery Delay
+4. Average Shipping Cost
+5. Order Profitability
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+- GitHub
+
+## Project Workflow
+
+The project will be completed in four stages:
+
+### Week 1 – Strategic Planning
+Define the logistics problem, KPIs, dataset, data science methods, and analytical roadmap.
+
+### Week 2 – Data Collection and Preprocessing
+Collect the logistics dataset and perform data cleaning, missing-value handling, outlier detection, and preprocessing.
+
+### Week 3 – Data Analysis and Visualization
+Perform exploratory data analysis, calculate statistics, identify correlations, and create visualizations.
+
+### Week 4 – Predictive Modeling and Optimization
+Develop a predictive model for logistics performance and propose optimization strategies based on analytical findings.
+
+## Dataset
+The project uses the publicly available DataCo Smart Supply Chain dataset as the reference dataset.
+The dataset contains logistics-related information such as shipping modes, scheduled and actual shipping days, delivery status, order details, customer information, sales, and profit-related variables.
+
+## Repository Structure
+logistics-data-analysis/
+│
+├── Week 1 Report.docx
+├── README.md
+├── reports/
+├── notebooks/
+├── data/
+└── requirements.txt
